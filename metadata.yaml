@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2784
     wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40312#The-Intoxicated-Ghostand-other-stories
 gutenberg_issued: '2012-07-24'
 gutenberg_type: Text
 identifiers:
