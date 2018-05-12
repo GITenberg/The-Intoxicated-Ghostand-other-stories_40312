@@ -1,0 +1,32 @@
+_repo: The-Intoxicated-Ghostand-other-stories_40312
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bates, Arlo
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '2784'
+    url: http://www.gutenberg.org/2009/agents/2784
+    wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
+description: ''
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40312'
+  lccn: 08012556
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: The intoxicated ghost -- A problem in portraiture -- The knitters
+  in the sun -- A comedy in crape -- A meeting of the Psychical Club -- Tim Calligan's
+  grave-money -- Miss Gaylord and Jenny -- Dr. Polnitzski -- In the Virginia room.
+title: The Intoxicated Ghost, and other stories
+url: http://www.gutenberg.org/ebooks/40312
